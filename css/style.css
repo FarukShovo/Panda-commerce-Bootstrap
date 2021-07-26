@@ -1,0 +1,27 @@
+.slider-bg{
+    background-color: #feeae9;
+}
+.categories img{
+    width: 68px;
+    height: 90px;
+}
+.bag-bg{
+    background-color: #FF589B;
+}
+.watch-bg{
+     background-color: #FF9C35; 
+    background-image: linear-gradient(#FF9C35);
+}
+.shoes-bg{
+    background-color: #4289FF;
+}
+.button{
+    background-color: #FF589B;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.price-colour{
+    color: #FF589B;
+}
